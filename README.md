@@ -19,7 +19,7 @@
             <li>Javascipt</li> 
         </ul>
         </div>
-        <a href="https://ruchika17012001.github.io/Portfolio-Website/" target="_blank"><p><b>📌 View To-Do Application</b></p></a>
+        <a href="https://ruchika17012001.github.io/To-Do-Application/" target="_blank"><p><b>📌 View To-Do Application</b></p></a>
         
 </body>
 </html>
